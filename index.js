@@ -14,6 +14,6 @@ function wrapAdjective(style="*") {
   };
 }
 
-const Calculator = () => {
+const Calculator = {
   
 }
