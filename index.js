@@ -32,6 +32,6 @@ const Calculator = {
   }
 };
 
-function actionApplyer() {
+function actionApplyer(num, array) {
   
 }
