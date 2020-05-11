@@ -36,6 +36,6 @@ function actionApplyer(startingNum, myArray) {
   let num = startingNum;
   
   for (let i = 0; i < myArray.length; i++) {
-    myArray[i](num);
+    num = myArray[i](num);
   }
 }
