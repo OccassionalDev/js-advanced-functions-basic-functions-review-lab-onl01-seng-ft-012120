@@ -15,19 +15,19 @@ function wrapAdjective(style="*") {
 }
 
 const Calculator = {
-  add: {
-    
+  add: function(num1, num2) {
+    return num1+num2;
   },
   
-  subtract: {
-    
+  subtract: function(num1, num2) {
+    return num1-num2;
   },
   
-  multiply: {
-    
+  multiply: function(num1, num2) {
+    return num1*num2;
   },
   
-  divide: {
-    
+  divide: function(num1, num2) {
+    return num1/num2;
   }
-}
+};
