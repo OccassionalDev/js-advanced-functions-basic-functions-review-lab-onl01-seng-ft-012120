@@ -31,3 +31,7 @@ const Calculator = {
     return num1/num2;
   }
 };
+
+function actionApplyer() {
+  
+}
