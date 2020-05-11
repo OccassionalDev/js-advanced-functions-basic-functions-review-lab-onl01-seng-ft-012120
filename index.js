@@ -14,3 +14,6 @@ function wrapAdjective(style="*") {
   };
 }
 
+const Calculator = () => {
+  
+}
