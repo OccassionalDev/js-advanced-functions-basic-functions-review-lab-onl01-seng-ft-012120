@@ -15,5 +15,7 @@ function wrapAdjective(style="*") {
 }
 
 const Calculator = {
-  
+  add: {
+    
+  }
 }
