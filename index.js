@@ -1,5 +1,5 @@
 // Your code here
 
-function satudayFun(activity = 'roller-skate') {
+function saturdayFun(activity = 'roller-skate') {
   
 }
