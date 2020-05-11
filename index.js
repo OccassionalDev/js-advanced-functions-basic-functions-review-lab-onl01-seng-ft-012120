@@ -10,8 +10,6 @@ function mondayWork(activity="go to the office") {
 
 function wrapAdjective() {
   return function(variable="special") {
-    return function() {
-      return ""
-    };
+    return `You are ${variable}
   };
 }
