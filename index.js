@@ -35,7 +35,7 @@ const Calculator = {
 function actionApplyer(startingNum, myArray) {
   let num = startingNum;
   
-  for (let i = 0; i < myArray.length(); i++) {
+  for (let i = 0; i < myArray.length; i++) {
     myArray[i](num);
   }
 }
