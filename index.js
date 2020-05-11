@@ -1,5 +1,5 @@
 // Your code here
 
-function satudayFun() {
+function satudayFun(activity = 'roller-skate') {
   
 }
